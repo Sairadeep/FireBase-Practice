@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "151356109070",
+    "firebase_url": "https://turbotechnologies-5bf3f-default-rtdb.firebaseio.com",
+    "project_id": "turbotechnologies-5bf3f",
+    "storage_bucket": "turbotechnologies-5bf3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151356109070:android:a3905380bc7d3acaa6e75f",
+        "android_client_info": {
+          "package_name": "com.turbotechnologies.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151356109070-e3odbq0rocl4qerioo018mojrh6jeb85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turbotechnologies.firebase",
+            "certificate_hash": "34fd34a4b08e8ece0cb8907da4c38c706e9d5376"
+          }
+        },
+        {
+          "client_id": "151356109070-kq85hkum79qeu6m978ejjfhju8iar4qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZYL-BUtrVHe7Ccxg6fo_16A6dtp08-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151356109070-kq85hkum79qeu6m978ejjfhju8iar4qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
